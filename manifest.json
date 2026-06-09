@@ -1,0 +1,17 @@
+{
+    "name": "减肥体重记录器",
+    "short_name": "体重记录",
+    "description": "记录每日体重，查看变化曲线",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f4f1",
+    "theme_color": "#4a9c6c",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>",
+            "sizes": "100x100",
+            "type": "image/svg+xml"
+        }
+    ]
+}
